@@ -23,7 +23,7 @@ wget을 통하여 다운로드된 파일은 해당 사용자위치( 예, home �
 ##
 리눅스 커널에서 구동
 
-wget https://github.com/TORDRFK/RKF.git 
+wget https://github.com/TORDRFK/RKF/archive/refs/heads/main.zip
 unzip RFK-main.zip
 
 ##
